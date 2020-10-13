@@ -82,12 +82,9 @@ li {
     line-height: 55px;
 }
 
-/* .category-button {
-    background-color: #D7D1C9;
-    padding: 12px 20px;
-    border-radius: 10px;
-    border: none;
-} */
+.articles-header select {
+    background: url(img/poly.png) no-repeat right 20px center;    
+}
 
 .articles-header select,
 .articles-header select option {
