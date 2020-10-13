@@ -82,13 +82,14 @@ li {
     line-height: 55px;
 }
 
+
 .articles-header select {
     background: url(img/poly.png) no-repeat right 20px center;    
 }
 
 .articles-header select,
 .articles-header select option {
-    background-color: #D7D1C9;
+    background-color: #D7D1C9;    
     padding: 12px 20px;
     padding-right: 60px;
     border-radius: 10px;
@@ -98,7 +99,8 @@ li {
     font-size: 16px;
     line-height: 22px;
     color: #2E2F22;
-    outline: none;     
+    outline: none;
+    position: relative;     
 }
 
 /* список статей */
@@ -646,12 +648,3 @@ span.hidden {
 .articles-item.hidden {
     display: none;
 }
-
-
-
-
-
-
-
-
-
